@@ -1,5 +1,17 @@
 # flexbox
 
-Flexbox Webpage Project
-This is my work on The Odin Project's Flexbox landing page assignment. I built this to practice modern CSS layout techniques, focusing specifically on mastering Flexbox.
-The project shows how to structure a complete webpage using Flexbox, including a header, content sections, and footer.
+
+
+A responsive webpage built using CSS Flexbox for modern layout control. This project demonstrates how to structure complete page sections—including headers, content areas, and footers—with flexible alignment and spacing.<br>
+
+The implementation features:<br>
+
+Semantic HTML5 markup<br>
+
+CSS Flexbox for responsive element positioning<br>
+
+Clean spacing and visual hierarchy<br>
+
+Mobile-friendly design principles<br>
+
+Built as part of The Odin Project's curriculum to showcase practical Flexbox applications in real-world web development.
