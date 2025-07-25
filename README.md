@@ -2,7 +2,7 @@
 
 
 
-A responsive webpage built using CSS Flexbox for modern layout control. This project demonstrates how to structure complete page sections—including headers, content areas, and footers—with flexible alignment and spacing.<br>
+A responsive webpage built using CSS Flexbox for modern layout control. This project demonstrates how to structure complete page sections including headers, content areas, and footers with flexible alignment and spacing.<br>
 
 The implementation features:<br>
 
