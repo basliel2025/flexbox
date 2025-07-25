@@ -113,14 +113,17 @@ h2{
     align-items: center; 
 }
 h3{
-    font: 36px italic lighter;
+    font-size: 36px;
+    font-weight:  lighter;
+    font-style: italic;
     color: #1F2937;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .item3{
-    font: 18px bold ;
+    font-size: 18px;
+    font-weight: bold;
     text-align: end;
 
 }
@@ -128,5 +131,52 @@ h3{
     display: flex;
     justify-content: flex-end;
     margin-left: 500px;
-
+}
+.footer{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    background-color: #3882F6;
+    width: 80%;
+    height: 40%;
+}
+.cl{
+  width: 80%;
+  margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+h4{
+    font-size: 24px;
+    color: white;
+}
+.item4{
+    color: white;
+    font-size: 18px;
+}
+.cr{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.signup2{
+     color: white;
+    background-color: #3882F6;
+    height: 35px;
+    width: 100px;
+    border-radius: 8px;
+    border: 2px  solid white;
+}
+.footerText{
+    display:flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    height: 70px;
+    align-items: center;
 }
