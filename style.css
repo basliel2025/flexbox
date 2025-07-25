@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding : 0;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.head{
+    background-color: #1F2937;
+
+}
+#Header_Logo{
+    color: #F9FAF8;
+    font-size: 24px;
+}
+.headerLink{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 10px;
+    text-decoration: none;
+}
+.headParts{
+    display: flex;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+}
+.headLeft, .headRight{
+   display: flex;
+   width: 50%;
+   justify-content: center;
+   align-items: center; 
+
+}
+h1{
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+.content{
+    display: flex;
+    margin: 40px;
+}
+.contentRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    
+}
+.contentLeft{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    justify-content: center;
+}
+
+img{
+    width: 370px;
+    margin: 50px;
+}
+.item{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-left: 130px;
+}
+.signup{
+    color: white;
+    background-color: #3882F6;
+    height: 35px;
+    width: 100px;
+    border-radius: 8px;
+    border: 2px solid #3882F6;
+    margin-left: 125px;
+    margin-top: 10px;
+}
+.contentLeft h1{
+    margin-left: 125px;
+}
