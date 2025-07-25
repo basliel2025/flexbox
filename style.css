@@ -104,3 +104,29 @@ h2{
     font-size: 18px;
     text-align: center;
 }
+.text{
+    background-color: #E5E7EB;
+    height: 470px;
+    display : flex;
+    flex-direction: column;
+     justify-content: center;
+    align-items: center; 
+}
+h3{
+    font: 36px italic lighter;
+    color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item3{
+    font: 18px bold ;
+    text-align: end;
+
+}
+#adjust{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 500px;
+
+}
