@@ -60,7 +60,10 @@ h1{
 
 img{
     width: 370px;
-    margin: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
 }
 .item{
     font-size: 18px;
